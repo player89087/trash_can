@@ -1,0 +1,2 @@
+This project automatically sends the ip adress of a minecraft server into a discord channel. Therefore the server has to be hosted locally. The notification will be sent out 
+once a day. You still need to fill in your authenfication and server adress, they are currently left as blank strings.
